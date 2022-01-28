@@ -8,5 +8,5 @@ It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-
 
 Deployed using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example). See the deployed version below:
 
-[![See Deployed Version](https://vercel.com/button)](https://blog-site-zeta.vercel.app/)
+[See Deployed Version](https://blog-site-zeta.vercel.app/)
 
